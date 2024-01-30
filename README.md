@@ -1,0 +1,1 @@
+Protobuf contract: https://github.com/DenisRybkin/sso-protos
